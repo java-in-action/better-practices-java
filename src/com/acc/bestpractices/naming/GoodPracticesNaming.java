@@ -1,4 +1,4 @@
-package com.acc.bespractices.naming;
+package com.acc.bestpractices.naming;
 
 /**
  * A good name should tell you,  

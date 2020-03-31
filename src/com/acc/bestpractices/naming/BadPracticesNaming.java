@@ -1,4 +1,4 @@
-package com.acc.bespractices.naming;
+package com.acc.bestpractices.naming;
 
 public class BadPracticesNaming {
 	int x1;

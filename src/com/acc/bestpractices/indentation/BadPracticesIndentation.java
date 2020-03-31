@@ -1,4 +1,4 @@
-package com.acc.bespractices.indentation;
+package com.acc.bestpractices.indentation;
 
 /**
  * 

@@ -1,4 +1,4 @@
-package com.acc.bespractices.indentation;
+package com.acc.bestpractices.indentation;
 
 /**
  * A good indentation makes your code more readable and understandable
